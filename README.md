@@ -1,11 +1,20 @@
-# Quantum_TLM_TUR
+# TUR violations in the three-level maser in a driven-dissipative cavity
 
 This code base is using the [Julia Language](https://julialang.org/) and
 [DrWatson](https://juliadynamics.github.io/DrWatson.jl/stable/)
 to make a reproducible scientific project named
 > Quantum_TLM_TUR
 
-It is authored by Janovitch.
+## Publication
+
+This project is based on the following publication:
+
+[Quantum TUR violations in the three-level maser](https://arxiv.org/abs/2602.06744)
+
+## Dependencies
+
+This project uses the [QuantumFCS.jl](https://github.com/marcelojbp/QuantumFCS.jl) package as a backend for full-counting statistics calculations.
+
 
 To (locally) reproduce this project, do the following:
 
