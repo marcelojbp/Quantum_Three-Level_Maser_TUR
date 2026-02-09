@@ -9,7 +9,7 @@ to make a reproducible scientific project named
 
 This project is based on the following publication:
 
-[Quantum TUR violations in the three-level maser](https://arxiv.org/abs/2602.06744)
+[Bridging Quantum and Semi-Classical Thermodynamics in Cavity QED](https://arxiv.org/abs/2602.06744)
 
 ## Dependencies
 
